@@ -6,7 +6,7 @@ The walkthrough **[can be found here](https://axianinc.atlassian.net/wiki/spaces
 ## Build Light
 At some point you'll end up replacing the build light below with one of your own:
 
-<img src="https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieS9yTHR3OTRhMkIwbUtjZ2F6UlpjMm9VeEZQYzNlTjJOUzBMVktDZldJeEdrUHBmKzlMR2ltWHREcktGK1RaZ0tlY1NtTkUybUN4QVk3RW5xbjFwVXVFPSIsIml2UGFyYW1ldGVyU3BlYyI6IkRGWVNqK0c1NGVLRVJsWk8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master">
+<img src="https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZEZCc2tnbEN4dlRhODMrYUVwUFR6aUh4Uk5RQi8wZzBoQmZ1d1RuT3EzckZMaFQwa0VHM1BJZDFzMjQyOGoxNGczcUViWnViV0xGVzdiVW5mY2I0QVAwPSIsIml2UGFyYW1ldGVyU3BlYyI6IkE2SzVBditHNm5RVzhwTWoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master">
 
 ## Add More Sams! (the squirrel bouncing around the page)
 Go to app.js file the repo you made in Step 2 and update the line:
@@ -16,7 +16,7 @@ var DESIRED_SAM_COUNT = 1;
 ```
 to
 ```javascript
-var DESIRED_SAM_COUNT = 15;
+var DESIRED_SAM_COUNT = 152;
 ```
 
 Commit and push the changes. 
