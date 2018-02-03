@@ -12,7 +12,7 @@ var sprites;
 var DESIRED_SAM_COUNT = 152;
 
 function preload() {
-    game.load.spritesheet('spinner', 'squirrel.png', 64, 64);
+    game.load.spritesheet('spinner', 'Profile.png', 64, 64);
     game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
 }
 
